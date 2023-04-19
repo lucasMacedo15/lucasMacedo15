@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 Atualmente não trabalho na área
 - 🌱 Estou estudando Django
 - 📫 Email para contato: lucas-slp@hotmail.com ou lucasmcd15@yahoo.com.br
-- 😄 Pronouns: Ele/Dele
+
 
 
 <div style="display: inline_block"><br>
