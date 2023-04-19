@@ -4,7 +4,7 @@
 Sobre mim:
 
 - 🔭 Atualmente não trabalho na área
-- 🌱 Estou estudando Django
+- 🌱 Atualmente, estou estudando Django
 - 📫 Email para contato: lucas-slp@hotmail.com ou lucasmcd20@yahoo.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasMacedo15)](https://github.com/anuraghazra/github-readme-stats)
