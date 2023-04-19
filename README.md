@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Lucas Macedo! 👋
 
 
-Here are some ideas to get you started:
+Sobre mim:
 
 - 🔭 Atualmente não trabalho na área
 - 🌱 Estou estudando Django
