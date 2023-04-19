@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 Estou estudando Django
 - 📫 Email para contato: lucas-slp@hotmail.com ou lucasmcd15@yahoo.com.br
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasMacedo15)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
