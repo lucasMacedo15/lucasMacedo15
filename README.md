@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 Atualmente não trabalho na área
 - 🌱 Estou estudando Django
-- 📫 Email para contato: lucas-slp@hotmail.com ou lucasmcd15@yahoo.com.br
+- 📫 Email para contato: lucas-slp@hotmail.com ou lucasmcd20@yahoo.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasMacedo15)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+ 
 </div>
   
   ##
